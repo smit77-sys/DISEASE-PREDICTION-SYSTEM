@@ -1,7 +1,7 @@
 # Fullstack Disease Prediction System (Diabetes & Heart)
 
 A modernized, clinical-grade web application for assessing diabetes and heart disease risk. The platform features a robust Express/Python backend engine and a professional medical dashboard frontend designed for healthcare environments.
-
+ 
 ## Core Features
 
 - 🩺 **Dual Disease Diagnostics**: Comprehensive risk assessment for both Diabetes and Cardiovascular conditions.
